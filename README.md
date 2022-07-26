@@ -1,4 +1,4 @@
-![citayem dark](https://user-images.githubusercontent.com/25912250/180638029-682c458b-2749-4917-b795-2a8341b69231.jpg)
+![Citayem Dark UI](https://user-images.githubusercontent.com/25912250/180638029-682c458b-2749-4917-b795-2a8341b69231.jpg)
 
 Citayem Dark UI. An Atom theme inspired by dark side of Citayem Fashion Week and VScode.
 Citayem Dark UI brings the dark vibes of Citayem Universe to Atom. Experience a delightful, more VScode-ey feeling for your Atom editor.
